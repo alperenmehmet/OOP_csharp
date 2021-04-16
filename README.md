@@ -25,3 +25,6 @@ Inheritance is one of the fundamental attributes of object-oriented programming.
 <hr>
 <h2>Polymorphism</h2><br>
 Polymorphism is the method that allows a method to create different effects for different classes.
+<hr>
+<h3>Additional Information</h3>
+In this project, I want to explain Object Oriented Programming concepts with C# Programming Language. I use console app and Visual Studio 2019. If you open the project you will see 6 project in the solution layer. Every project is independent. I hope will like this project. If you are having trouble using this project, please open a new issue and describe your problem. Liked the project? Just give it a star.
