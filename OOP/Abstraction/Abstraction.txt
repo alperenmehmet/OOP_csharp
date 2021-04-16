@@ -1,0 +1,11 @@
+﻿*******Abstraction*******
+
+1. Abstraction is related features in obeject oriented programming.
+2. Abstract classes are written to be based on other classes. So you cannot create an instance of an abstract class.
+3. The purpose of abstract class is to require the use of some properties in classes that inherit from them.
+
+Now let's make an example.
+1. Open a folder named Entities. And three sub folder in Entities folder. Named abstract, concrete and enums.
+2. In Abstract folder, we have a class named BaseEntity which is our abstract class.
+3. In Concrete folder, we have a class named car.
+4. In Enums folder, we have one enum class named Status. An enum is a special "class" that represents a group of constants (unchangeable/read-only variables).

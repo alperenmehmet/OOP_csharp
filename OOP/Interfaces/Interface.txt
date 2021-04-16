@@ -1,0 +1,13 @@
+﻿*******Interface*******
+
+1. In C#, an interface can be defined using the interface keyword. And it is considered good practice to start with the letter "I" at the beginning of an interface, as it makes it easier for yourself and others to remember that it is an interface and not a class.
+2. In interfaces all members has to be override.
+3. An interface can contain declarations of methods, properties, indexers, and events. However, it cannot contain fields, auto-implemented properties.
+4. If I create a property in interfaces, I have to implement all of the members in subclass.
+5. Interfaces can be implemented implicitly and explicitly. Implicit implementations are simpler. Explicit implementations are only necessary if a type must have multiple methods with the same name and signature.
+
+Now let's make an example.
+1. Add new folder the project named Entities.
+2. In Entities folder, add two folder named Concrete and Interface.
+3. In Interface folder, add IBook.cs class.
+4. In Concrete folder, add Book.cs folder.

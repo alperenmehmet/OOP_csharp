@@ -1,0 +1,7 @@
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Polymorphism\obj\Debug\Polymorphism.pdb
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache

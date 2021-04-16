@@ -1,0 +1,8 @@
+﻿*******Encapsulation*******
+
+1. Encapsulation is sometimes referred to as the first pillar or principle of object-oriented programming.
+2. Encapsulation means hiding unnecessary details from type consumers.
+
+Now let's make an example.
+1. Firstly we open a new folder named Entities and inside the folder open a new folder again named concrete.
+2. Open two class named BaseEntity.cs and Product.cs.

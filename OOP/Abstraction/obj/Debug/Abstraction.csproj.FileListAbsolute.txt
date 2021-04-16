@@ -1,0 +1,7 @@
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Abstraction\obj\Debug\Abstraction.pdb

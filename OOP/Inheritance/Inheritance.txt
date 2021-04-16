@@ -1,0 +1,9 @@
+﻿*******Inheritance*******
+
+1.Inheritance is one of the fundamental attributes of object-oriented programming. It allows you to define a child class that reuses (inherits), extends, or modifies the behavior of a parent class. The class whose members are inherited is called the base class. The class that inherits the members of the base class is called the derived class.
+
+Now let's make an example.
+1. First of all we will create two folder named ChildClass and ParentClass. 
+2. In ChildClass folder we will add three class Iphone, Nokia, Samsung and in ParentClass folder we will create BasePhone class.
+3. Our ChildClasses inherited some attribute from ParentClass which is BasePhone.
+4. And finally we will write this phone feature to the console by using Console.WriteLine command.

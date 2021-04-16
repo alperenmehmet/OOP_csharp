@@ -1,0 +1,8 @@
+﻿*******Polymorphism*******
+
+1.Polymorphism is the method that allows a method to create different effects for different classes.
+
+Now let's make an example.
+1. Add new folder the project named Entities.
+2. In Entities folder, add a folder named Concrete.
+3. In Concrete folder, add Person.cs, Customer.cs, Employee.cs class.

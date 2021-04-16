@@ -1,0 +1,7 @@
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Interfaces\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Interfaces\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Mehmet ALPEREN\Desktop\BİLGE ADAM\OOP\OOP\Interfaces\obj\Debug\Interfaces.pdb
