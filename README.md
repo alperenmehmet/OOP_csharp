@@ -19,3 +19,9 @@ Abstraction is related features in obeject oriented programming. Abstract classe
 <hr>
 <h2>Interface</h2><br>
 In C#, an interface can be defined using the interface keyword. And it is considered good practice to start with the letter "I" at the beginning of an interface, as it makes it easier for yourself and others to remember that it is an interface and not a class. In interfaces all members has to be override. An interface can contain declarations of methods, properties, indexers, and events. However, it cannot contain fields, auto-implemented properties. If I create a property in interfaces, I have to implement all of the members in subclass. Interfaces can be implemented implicitly and explicitly. Implicit implementations are simpler. Explicit implementations are only necessary if a type must have multiple methods with the same name and signature.
+<hr>
+<h2>Inheritance</h2><br>
+Inheritance is one of the fundamental attributes of object-oriented programming. It allows you to define a child class that reuses (inherits), extends, or modifies the behavior of a parent class. The class whose members are inherited is called the base class. The class that inherits the members of the base class is called the derived class.
+<hr>
+<h2>Polymorphism</h2><br>
+Polymorphism is the method that allows a method to create different effects for different classes.
